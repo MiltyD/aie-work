@@ -1,0 +1,22 @@
+{
+  "LogisticRegression": {
+    "best_params": {
+      "logreg__C": 0.1
+    },
+    "best_cv_score": 0.7202500000000001
+  },
+  "DecisionTreeClassifier": {
+    "best_params": {
+      "max_depth": 15,
+      "min_samples_leaf": 5
+    },
+    "best_cv_score": 0.7370594838388832
+  },
+  "RandomForestClassifier": {
+    "best_params": {
+      "learning_rate": 0.8,
+      "n_estimators": 200
+    },
+    "best_cv_score": 0.6368238675500177
+  }
+}

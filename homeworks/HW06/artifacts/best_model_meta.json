@@ -1,0 +1,11 @@
+{
+  "model_name": "StackingClassifier",
+  "model_type": "<class 'sklearn.ensemble._stacking.StackingClassifier'>",
+  "best_params": {},
+  "cv_score": null,
+  "test_metrics": {
+    "accuracy": 0.9033333333333333,
+    "f1": 0.8821019435570325,
+    "roc_auc": 0.9569778771887719
+  }
+}
